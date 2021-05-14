@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Nascimento</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Sérgio Nascimento</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
 <br>
