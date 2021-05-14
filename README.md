@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Sérgio Nascimento</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
+
 <br>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nascbiel&show_icons=true&locale=en&layout=compact" alt="nascbiel" /></p>
@@ -28,6 +29,10 @@
 <a href="https://discord.gg/𝓝𝓪𝓼𝓬𝓫𝓲𝓮𝓵#2303" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="𝓝𝓪𝓼𝓬𝓫𝓲𝓮𝓵#2303" height="30" width="40" /></a>
   </p>
   
+ <p align="center">
+  <img src="https://64.media.tumblr.com/983375fdc9835f20f4ab129042974dcc/tumblr_pp8d7phScL1xel9slo1_1280.png"> 
+</p>
+
 
 
 
