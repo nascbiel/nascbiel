@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Sérgio Nascimento</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+<h3 align="center">A passionate Software Development Analyst from Brazil</h3>
 
 
 <br>
@@ -7,9 +7,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nascbiel&show_icons=true&locale=en&layout=compact" alt="nascbiel" /></p>
 
 
-- 🌱 I’m currently learning **Java | MySQL | Spring Boot | Angular etc.**
-
-- 👯 I’m looking to collaborate on **projects that are within my purview**
+- 🌱 I’m Software Development Analyst | Mercado Livre
 
 - 📫 How to reach me **bielnascsantos@gmail.com**
 
